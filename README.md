@@ -39,7 +39,7 @@ Building in public. No laptop. No excuses.
 ## 📈 Journey Progress
 
 ```
-Month 1 — JavaScript Core        ████████████████░░░░  Day 13/14 ✅
+Month 1 — JavaScript Core        ████████████████████ Day 13/14 ✅
 Month 2 — Node.js & Async        ░░░░░░░░░░░░░░░░░░░░  Upcoming
 Month 3 — Express & REST APIs    ░░░░░░░░░░░░░░░░░░░░  Upcoming
 Month 4 — Databases & Auth       ░░░░░░░░░░░░░░░░░░░░  Upcoming
