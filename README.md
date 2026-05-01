@@ -6,7 +6,7 @@ Building in public. No laptop. No excuses.
 ---
 
 ## 🎯 What I'm doing
-- 🚀 6-month backend engineering journey — started March 2026
+- 🚀 6-month backend engineering journey — started April 2026
 - 📱 Building entirely on **Termux + Node.js on Android**
 - 💰 Freelance-ready target: **July 2026**
 - 💻 Full dev mode (with laptop): **September 2026**
@@ -21,7 +21,19 @@ Building in public. No laptop. No excuses.
 
 ---
 
-## 📦 Projects Built So Far
+## 📅 Monthly Progress
+| Month | Focus | Status |
+|-------|-------|--------|
+| Month 1 — April 2026 | JavaScript Core | ✅ Complete |
+| Month 2 — May 2026 | Node.js & Async JS | 🔥 In Progress |
+| Month 3 — June 2026 | Express & REST APIs | ⏳ |
+| Month 4 — July 2026 | Databases & Auth | ⏳ |
+| Month 5 — August 2026 | Freelance & Bots | ⏳ |
+| Month 6 — September 2026 | Senior Thinking | ⏳ |
+
+---
+
+## 🏗️ Projects Built So Far
 
 | Project | Description | Concepts |
 |---------|-------------|----------|
@@ -33,19 +45,7 @@ Building in public. No laptop. No excuses.
 | 💊 Pharmacy Stock Report | Filter and report medicine stock | Higher order functions, chaining |
 | 🏪 Medicine Dispensing System | Full validation and error handling | try/catch, throw, filter |
 | 🏨 Patient Registration System | ES6-powered patient registrations | Arrow functions, destructuring, spread |
-
----
-
-## 📈 Journey Progress
-
-```
-Month 1 — JavaScript Core        ████████████████████ Day 13/14 ✅
-Month 2 — Node.js & Async        ░░░░░░░░░░░░░░░░░░░░  Upcoming
-Month 3 — Express & REST APIs    ░░░░░░░░░░░░░░░░░░░░  Upcoming
-Month 4 — Databases & Auth       ░░░░░░░░░░░░░░░░░░░░  Upcoming
-Month 5 — Freelance & Bots       ░░░░░░░░░░░░░░░░░░░░  Upcoming
-Month 6 — Senior Thinking        ░░░░░░░░░░░░░░░░░░░░  Upcoming
-```
+| 💊 Neimeth Pharmacy CLI | Month 1 final project — full CLI system | All Month 1 concepts combined |
 
 ---
 
@@ -64,3 +64,4 @@ Month 6 — Senior Thinking        ░░░░░░░░░░░░░░░
 ---
 
 > *"Building in public. One day at a time. On a phone."*
+
