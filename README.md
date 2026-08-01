@@ -25,8 +25,8 @@ Building in public. No laptop. No excuses.
 | Month | Focus | Status |
 |-------|-------|--------|
 | Month 1 — April 2026 | JavaScript Core | ✅ Complete |
-| Month 2 — May 2026 | Node.js & Async JS | 🔥 In Progress |
-| Month 3 — June 2026 | Express & REST APIs | ⏳ |
+| Month 2 — May 2026 | Node.js & Async JS | ✅ Complete |
+| Month 3 — June 2026 | Express & REST APIs | 🔥 In Progress |
 | Month 4 — July 2026 | Databases & Auth | ⏳ |
 | Month 5 — August 2026 | Freelance & Bots | ⏳ |
 | Month 6 — September 2026 | Senior Thinking | ⏳ |
