@@ -6,7 +6,7 @@ Building in public. No laptop. No excuses.
 ---
 
 ## 🎯 What I'm doing
-- 🚀 6-month backend engineering journey — started April 2026
+- 🚀 6-month backend engineering journey
 - 📱 Building entirely on **Termux + Node.js on Android**
 - 💰 Freelance-ready target: **July 2026**
 - 💻 Full dev mode (with laptop): **September 2026**
